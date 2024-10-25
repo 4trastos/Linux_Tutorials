@@ -4,7 +4,7 @@
 
 1. Abre la Terminal y escribe:
 ```
-- xrandr --prop | grep "connected"
+xrandr --prop | grep "connected"
 ```
 
 Esto nos mostrará el modelo de nuestro monitor. En mi caso es este `XWAYLAND0`:
